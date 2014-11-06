@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>907261B1-2110-4831-9DA9-9F2E2D73F45D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FWShareSDKDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F8E8A90DCBE97C3EA8C7FC6150D32CCE90F63AE6</key>
+		<string>ssh://nanny.netease.com/gzliuyong2014/fwsharesdk.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FWShareSDKDemo/FWShareSDKDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F8E8A90DCBE97C3EA8C7FC6150D32CCE90F63AE6</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://nanny.netease.com/gzliuyong2014/fwsharesdk.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F8E8A90DCBE97C3EA8C7FC6150D32CCE90F63AE6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F8E8A90DCBE97C3EA8C7FC6150D32CCE90F63AE6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>fwsharesdk</string>
+		</dict>
+	</array>
+</dict>
+</plist>
