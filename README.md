@@ -6,9 +6,9 @@ FWShareSDK
 
 Demo effect:
 
-![Alt text](http://nanny.netease.com/gzliuyong2014/fwsharesdk/raw/master/screenShot.png)
+![Alt text](https://raw.githubusercontent.com/CyonLeu/FWShareSDK/master/shareScreenShot.gif)
 
-![Alt text](http://nanny.netease.com/gzliuyong2014/fwsharesdk/raw/master/shareScreenShot.gif)
+![Alt text](https://raw.githubusercontent.com/CyonLeu/FWShareSDK/master/screenShot.png)
 
  
  
@@ -16,7 +16,7 @@ Demo effect:
  
 ADD to you Podfile the line: 
 
-	pod 'FWShareSDK', :podspec => 'http://nanny.netease.com/gzliuyong2014/fwsharesdk/raw/master/FWShareSDK.podspec'
+	pod 'FWShareSDK', :podspec => 'https://raw.githubusercontent.com/CyonLeu/FWShareSDK/master/FWShareSDK.podspec'
 
 
 ### You can see FWShareSDKDemo 
